@@ -1,0 +1,26 @@
+.container{
+    background-color: rgb(43, 42, 42);
+    max-width: 250px;
+    height: 150px;
+    margin: 0 auto;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.timer{
+    color: white;
+    font-size: 22px;
+}
+.button{
+    width: 80px;
+    height: 40px;
+    font-weight: bolder;
+    margin-right: 10px;
+    margin-left: 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+.change{
+ background-color: rgb(45, 45, 248);
+ color: white;
+}
